@@ -1,3 +1,12 @@
+/*!
+ * \brief	Данная программа эмулирует работу интерпретатора shell для команды
+ *			cat a.txt b.txt c.txt | tr -d "[a-i]" | wc -w
+ *
+ * \author	Рогоза А. А.
+ * \author	Романов С. А.
+ * \date	07/03/2016
+ */
+
 #include <stdio.h>
 #include <stdint.h>
 #include <inttypes.h>
